@@ -57,7 +57,7 @@ I'm Logeshkumar studying Mechanical Engineering in [SONA college of technology](
 <ul> 
 <h3>Projects File🗄️:</h3> </ul>
 <ul>
-<a href="https://github.com/LogeshKumar-04?tab=repositories" target="_blank"> <img height="30"  src="https://miro.medium.com/max/910/1*BCZkmZR1_YzDZy22Vn4uUw.png"/> </a>
+<a href="https://github.com/Logeshkumar-10?tab=repositories" target="_blank"> <img height="30"  src="https://miro.medium.com/max/910/1*BCZkmZR1_YzDZy22Vn4uUw.png"/> </a>
 </ul>
  
 ---
