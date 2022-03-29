@@ -64,4 +64,4 @@ I'm Logeshkumar studying Mechanical Engineering in [SONA college of technology](
 
 <h3>Github stats:dart:</h3>
  
-![LogeshKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Logeshkumar-04&show_icons=true&theme=radical)
+![LogeshKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Logeshkumar-10&show_icons=true&theme=radical)
