@@ -1,5 +1,5 @@
 <h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hello👋 This is LogeshKumar &#128512 <br></br>
-<h2 align="center"> Data Analyst:bar_chart: and Tableau developer:computer:</h2>
+<h2 align="center"> Data Analyst:bar_chart: and Tableau,Power BI developer:computer:</h2>
 
 I'm Logeshkumar studying Mechanical Engineering in [SONA college of technology](https://www.sonatech.ac.in/) Intrested in Data Analytics & Visualisation. 
 
