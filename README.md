@@ -1,18 +1,19 @@
-<h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hello👋 This is LogeshKumar &#128512 <br></br>
-<h2 align="center"> Data Analyst:bar_chart: and Tableau,Power BI developer:computer:</h2>
+<h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hello👋 This is LogeshKumar Sivakumar <br></br>
+<h2 align="center"> Data Analyst:bar_chart: and Power BI developer:computer:</h2>
 
-I'm Logeshkumar studying Mechanical Engineering in [SONA college of technology](https://www.sonatech.ac.in/) Intrested in Data Analytics & Visualisation. 
+I'm Logeshkumar studying Mechanical Engineering in [SONA college of technology](https://www.sonatech.ac.in/), Intrested in Data Analytics & Visualisation. 
 
 ---
 
 <ul> 
 <h3>Skills:💻:</h3> </ul>
  <li>MS-Excel</li>
- <li>Pivot, Power Query, Macros, VBA</li>
+ <li>Pivot, Power Query, Macros</li>
+ <li>DAX</li>
  <li>My SQL</li>
+ <li>Power BI</li>
  <li>Tableau</li>
-  <li>Power BI</li>
- <li>Machine Learning</li>
+ <li>Python for Data Science</li>
 </ul>
 
 ---
