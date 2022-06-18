@@ -13,7 +13,7 @@ I'm Logeshkumar studying Mechanical Engineering in [SONA college of technology](
  <li>My SQL</li>
  <li>Power BI</li>
  <li>Tableau</li>
- <li>Python for Data Science</li>
+ <li>NumPy, Pandas, Matplotlib, Seaborn</li>
 </ul>
 
 ---
