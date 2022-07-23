@@ -8,7 +8,7 @@ I'm Logeshkumar studying Mechanical Engineering in [SONA college of technology](
 <ul> 
 <h3>Skills:💻:</h3> </ul>
  <li>MS-Excel</li>
- <li>Pivot, Power Query, Macros</li>
+ <li>Pivot, Power Query, Power Pivot, Macros</li>
  <li>DAX</li>
  <li>My SQL</li>
  <li>Power BI</li>
