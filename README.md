@@ -9,11 +9,12 @@ I'm Logeshkumar studying Mechanical Engineering in [SONA college of technology](
 <h3>Skills:💻:</h3> </ul>
  <li>MS-Excel</li>
  <li>Pivot, Power Query, Power Pivot, Macros</li>
+ <li>Power BI</li>
  <li>DAX</li>
  <li>My SQL</li>
- <li>Power BI</li>
  <li>Tableau</li>
  <li>NumPy, Pandas, Matplotlib, Seaborn</li>
+ <li>Data Structures</li>
 </ul>
 
 ---
