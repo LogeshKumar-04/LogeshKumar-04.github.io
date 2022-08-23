@@ -1,5 +1,5 @@
 <h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hello👋 This is LogeshKumar Sivakumar <br></br>
-<h2 align="center"> Data Analyst:bar_chart: and Power BI developer:computer:</h2>
+<h2 align="center">Power BI developer:computer: & Data Analyst:bar_chart:</h2>
 
 I'm Logeshkumar studying Mechanical Engineering in [SONA college of technology](https://www.sonatech.ac.in/), Intrested in Data Analytics & Visualisation. 
 
@@ -42,6 +42,7 @@ I'm Logeshkumar studying Mechanical Engineering in [SONA college of technology](
 <p>
 <img width="45" height="45" hspace="10" src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg"/>
 <img width="60" height="50" hspace="10" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fde%2Fthumb%2Fd%2Fdd%2FMySQL_logo.svg%2F1280px-MySQL_logo.svg.png"/>
+<img width="45" height="45" hspace="10" src="https://kumavision.com/cache/mod_roksprocket/fe5f71c970ef036c3b4407faa9ce6c69_300_550.png"/>
 <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
 <img width="55" height="55" hspace="10" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"/>
 <img width="45" height="45" hspace="10" src="https://pbs.twimg.com/profile_images/1187765724451868673/uVw1PWA7_400x400.png"/>
@@ -50,7 +51,6 @@ I'm Logeshkumar studying Mechanical Engineering in [SONA college of technology](
 <img width="65" height="65" hspace="10" src="https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2016/09/scikit-learn-logo.png?fit=566%2C202&ssl=1"/>
 <img width="55" height="55" hspace="10" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png"/>
 <img width="45" height="45" hspace="10" src="https://www.pngjoy.com/pngm/142/2853977_primerica-logo-tableau-software-hd-png-download.png"/>
-<img width="45" height="45" hspace="10" src="https://kumavision.com/cache/mod_roksprocket/fe5f71c970ef036c3b4407faa9ce6c69_300_550.png"/>
 <img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
 
  ---
