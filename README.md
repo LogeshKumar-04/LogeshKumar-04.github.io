@@ -1,7 +1,7 @@
 <h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hello👋 This is LogeshKumar Sivakumar <br></br>
 <h2 align="center">Power BI developer:computer: & Data Analyst:bar_chart:</h2>
 
-I'm Logeshkumar studying Mechanical Engineering in [SONA college of technology](https://www.sonatech.ac.in/), Intrested in Data Analytics & Visualisation. 
+Looking forward to serving an esteemed organization in a challenging and responsible position to utilize my skills and abilities that offers me a professional growth constantly which will help me to build a long-term career in Data Industry. 
 
 ---
 
