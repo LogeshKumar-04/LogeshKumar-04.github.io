@@ -62,11 +62,11 @@ Looking forward to serving an esteemed organization in a challenging and respons
 <a href="https://github.com/Logeshkumar-10?tab=repositories" target="_blank"> <img height="30"  src="https://miro.medium.com/max/910/1*BCZkmZR1_YzDZy22Vn4uUw.png"/> 
 <ul>
 
+# PowerBI Reports and Dashboards
+
 Here I have some of reports and dashboards created using Power BI. Data were taken from open sources such as kaggle, Gihub,Maven Analytics, Onyx Data, etc..
 
-# Reports and Dashboards
-
-\# | Title | Power BI Service | Power BI Desktop | PPT | Source_Data
+\# | Title | Power BI Service | Power BI Desktop (As *.pbix format) | PPT | Source_Data
 ---|---|---|---|---|---|
 01 | FIFA 1930 to 2018 Stats | [Report](https://app.powerbi.com/reportEmbed?reportId=b3cf12ca-8696-4433-a035-ab9ad3a52423&autoAuth=true&ctid=a5bd300c-c3b3-41d8-87e0-1f5c8d364af3) | [Power BI Desktop](https://drive.google.com/file/d/10sb8NzX-qb1k61dg7XCxEw93nE_c49it/view?usp=sharing) | [PPT](https://docs.google.com/presentation/d/1DSEvWsN2fj2PH1zfdBKFvg_ilTT6UIMz/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | Data Collected from Various sources and modelled together
 02 | Forage - PWC Call Center Case Study | [Report](https://app.powerbi.com/reportEmbed?reportId=19ba8993-6c55-4566-8686-d3488bf7ac2a&autoAuth=true&ctid=a5bd300c-c3b3-41d8-87e0-1f5c8d364af3) | [Power BI Desktop](https://drive.google.com/file/d/1gwy2dhp_JWG5LZV2k8EJ-ff6Pa2H1lN1/view?usp=sharing) | [PPT](https://docs.google.com/presentation/d/1VpY-KkJiNFiDeBg11Ae05MlaEXwrXE0O/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Digital-Up-skilling-Virtual-Case-Experience?ref=GG7XjTHbetNW9AuHE)
@@ -78,7 +78,20 @@ Here I have some of reports and dashboards created using Power BI. Data were tak
 08 | US-Ecommerce Dashboard | [Report](https://app.powerbi.com/reportEmbed?reportId=564dbc5a-f9a3-4f5a-8536-4ecc79975d67&autoAuth=true&ctid=a5bd300c-c3b3-41d8-87e0-1f5c8d364af3) | [Power BI Desktop](https://drive.google.com/file/d/1b9eAxuSjqpGEuuk3lUqJPOmSx4Xlnq7G/view?usp=sharing) | [PPT](https://docs.google.com/presentation/d/12d18-qlAdnitm4mld9bJJPMrJ-9NLWEX/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://drive.google.com/file/d/1SVJFzIFL66V47PVGlY_0wQ4ipkfAbymV/view?usp=sharing)
 09 | Maven Market Sales Dashboard | [Report](https://app.powerbi.com/reportEmbed?reportId=a022be1d-1a04-4c58-8047-3c75a5bbff9a&autoAuth=true&ctid=a5bd300c-c3b3-41d8-87e0-1f5c8d364af3&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D) | [Power BI Desktop](https://drive.google.com/file/d/16rh72aNLEH4jCW3SEj60Gg2MGRtpp7d-/view?usp=sharing) | [PPT](https://docs.google.com/presentation/d/1lmTb3II73ltVeOGMuNGCKruA7JnK-Y-C/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://drive.google.com/drive/folders/1yjhOqNgesskio7WWIYHrCNbrW3QFX8Gv?usp=sharing)
 10 | Adventure Work Cycles Sales Dashboard | [Report](https://app.powerbi.com/reportEmbed?reportId=5daba9c7-3cf7-479b-9e49-8e4eab1cbf8e&autoAuth=true&ctid=a5bd300c-c3b3-41d8-87e0-1f5c8d364af3&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D) | [Power BI Desktop](https://drive.google.com/file/d/1vYHzJbWa2RU590ra-13pZXo_sXdmUVoh/view?usp=sharing) | [PPT](https://docs.google.com/presentation/d/16YuOUlGMj1mEf9t_KEh6G-zP0XlvupiJ/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://drive.google.com/drive/folders/1I8AGDnzcgn2h1FeSJRKIZv_9yf8XPGXT?usp=sharing)
- 
+
+# Tableau Dashboards
+
+Here I have some of my practiced dashboards using Tableau. I created these Dashboards in Tableau Desktop.But Unfortunately I can't upload in Tableau Sever/Online. So I saved the files as *.twbx format and saved in my Drive.
+
+\# | Title | Dashboard (As *.twbx format) | Presentation
+---|---|---|---|
+01 | Covid-19 Calender | [Dashboard](https://drive.google.com/file/d/1wPo7T-dUKDoZMGUuPOZZ7Q8Y8sHt-zvP/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1RHnSNW10YImq4ykhBH7UXcpe6XvNGADi/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
+02 | Elective Subject analysis of my Clg Students | [Dashboard](https://drive.google.com/file/d/1wPo7T-dUKDoZMGUuPOZZ7Q8Y8sHt-zvP/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1lvSzARp63Vn617Pybt2Rn173SeeUOr1u/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
+03 | IMDB Movie Analysis | [Dashboard](https://drive.google.com/file/d/1bf7RtFCspKj7_uRpG_bXeD-qe2kVoYKa/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1mvW8Wgq7LDMHfcNcE5FHYw1PnK6ExhAQ/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
+04 | US E-Commerce Analysis | [Dashboard](https://drive.google.com/file/d/18HqY3KmZCSNgl_ycrYQL617C_ISpv8Fv/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1KeJRPdgGF4Y0OhXlz8nFMI9ihul5hjfe/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
+05 | UK Bank Customer Analysis | [Dashboard](https://drive.google.com/file/d/13tuH8drPI94r9AxO_DU4V4NeakExddNw/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1hgxjrOn02tNrrfz167Z6JAEuYuQVy-e5/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
+06 | Brazilian E-commerce Analysis | [Dashboard](https://drive.google.com/file/d/1A-1LEmBubIM9u4w9l_6NLRSOhLvdrAM5/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1TrL2vSPGpbUE5Ja3M2f3KnYPaXEbIpC5/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
+07 | California Real Estate Analysis | [Dashboard](https://drive.google.com/file/d/13tuH8drPI94r9AxO_DU4V4NeakExddNw/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1wzninxWzEdaBZBkH-bv7dC_tDVvDImud/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
 </a>
 </ul>
  
