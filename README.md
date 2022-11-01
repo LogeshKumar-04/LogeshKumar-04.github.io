@@ -14,7 +14,6 @@ Looking forward to serving an esteemed organization in a challenging and respons
  <li>My SQL</li>
  <li>Tableau</li>
  <li>NumPy, Pandas, Matplotlib, Seaborn</li>
- <li>Data Structures</li>
 </ul>
 
 ---
