@@ -65,7 +65,7 @@ Looking forward to serving an esteemed organization in a challenging and respons
 
 Here I have some of reports and dashboards created using Power BI. Data were taken from open sources such as kaggle, Gihub,Maven Analytics, Onyx Data, etc..
 
-\# | Title | Power BI Service | Power BI Desktop | PPT | Source_Data
+\# | Title | Power BI Service | Power BI Desktop (as *.pbix) | PPT | Source_Data
 ---|---|---|---|---|---|
 01 | FIFA 1930 to 2018 Stats | [Power BI Service](https://app.powerbi.com/reportEmbed?reportId=b3cf12ca-8696-4433-a035-ab9ad3a52423&autoAuth=true&ctid=a5bd300c-c3b3-41d8-87e0-1f5c8d364af3) | [Power BI Desktop](https://drive.google.com/file/d/10sb8NzX-qb1k61dg7XCxEw93nE_c49it/view?usp=sharing) | [PPT](https://docs.google.com/presentation/d/1DSEvWsN2fj2PH1zfdBKFvg_ilTT6UIMz/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | Data Collected from Various sources and modelled together
 02 | Forage - PWC Call Center Case Study | [Power BI Service](https://app.powerbi.com/reportEmbed?reportId=19ba8993-6c55-4566-8686-d3488bf7ac2a&autoAuth=true&ctid=a5bd300c-c3b3-41d8-87e0-1f5c8d364af3) | [Power BI Desktop](https://drive.google.com/file/d/1gwy2dhp_JWG5LZV2k8EJ-ff6Pa2H1lN1/view?usp=sharing) | [PPT](https://docs.google.com/presentation/d/1VpY-KkJiNFiDeBg11Ae05MlaEXwrXE0O/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Digital-Up-skilling-Virtual-Case-Experience?ref=GG7XjTHbetNW9AuHE)
@@ -82,7 +82,7 @@ Here I have some of reports and dashboards created using Power BI. Data were tak
 
 Here I have some of my practiced dashboards using Tableau. I created these Dashboards in Tableau Desktop.But Unfortunately I can't upload in Tableau Sever/Online. So I saved the files as *.twbx format and saved in my Drive.
 
-\# | Title | Dashboard (As *.twbx format) | Presentation
+\# | Title | Dashboard (as *.twbx format) | Presentation
 ---|---|---|---|
 01 | Covid-19 Calender | [Dashboard](https://drive.google.com/file/d/1wPo7T-dUKDoZMGUuPOZZ7Q8Y8sHt-zvP/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1RHnSNW10YImq4ykhBH7UXcpe6XvNGADi/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
 02 | Elective Subject analysis of my Clg Students | [Dashboard](https://drive.google.com/file/d/1wPo7T-dUKDoZMGUuPOZZ7Q8Y8sHt-zvP/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1lvSzARp63Vn617Pybt2Rn173SeeUOr1u/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
