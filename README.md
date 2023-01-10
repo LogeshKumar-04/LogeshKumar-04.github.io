@@ -5,8 +5,7 @@ Looking forward to serving an esteemed organization in a challenging and respons
 
 ---
 
-<ul> 
-<h3>Skills:💻:</h3> </ul>
+<h3>Skills:💻:</h3>
  <li>MS-Office</li>
  <li>Pivot, Power Query, Power Pivot, Macros</li>
  <li>Power BI</li>
@@ -42,7 +41,7 @@ Looking forward to serving an esteemed organization in a challenging and respons
 <p>
 <img width="45" height="45" hspace="10" src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg"/>
 <img width="60" height="50" hspace="10" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fde%2Fthumb%2Fd%2Fdd%2FMySQL_logo.svg%2F1280px-MySQL_logo.svg.png"/>
-<img width="45" height="45" hspace="10" src="https://kumavision.com/cache/mod_roksprocket/fe5f71c970ef036c3b4407faa9ce6c69_300_550.png"/>
+<img width="45" height="45" hspace="10" src="http://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843"/>
 <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
 <img width="55" height="55" hspace="10" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"/>
 <img width="45" height="45" hspace="10" src="https://pbs.twimg.com/profile_images/1187765724451868673/uVw1PWA7_400x400.png"/>
@@ -55,8 +54,7 @@ Looking forward to serving an esteemed organization in a challenging and respons
 
  ---
 
-<ul> 
-<h3>Projects File🗄️:</h3> </ul>
+<h3>Projects File🗄️:</h3>
 <ul>
 <a href="https://github.com/Logeshkumar-10?tab=repositories" target="_blank"> <img height="30"  src="https://miro.medium.com/max/910/1*BCZkmZR1_YzDZy22Vn4uUw.png"/> 
 <ul>
