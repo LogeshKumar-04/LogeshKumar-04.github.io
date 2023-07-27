@@ -64,7 +64,7 @@ Looking forward to serving an esteemed organization in a challenging and respons
 Here I have some of reports and dashboards created using Power BI. Data were taken from open sources such as kaggle, Gihub,Maven Analytics, Onyx Data, etc..
 
 \# | Title | Power BI Service | PPTX | Source_Data
----|---|---|---|---|---|
+---|---|---|---|---|
 01 | IPL Stats | [Power BI Service](https://www.mavenanalytics.io/project/3776) | [PPTX](https://docs.google.com/presentation/d/1poK91tdOx3hi5xCFfv4C6-b6sRs5lfL-/edit?usp=share_link&ouid=117075618696490675354&rtpof=true&sd=true) | Data Collected from Various sources and modelled together
 02 | FIFA World Cup 1930 to 2018 Stats | [Power BI Service](https://www.mavenanalytics.io/project/3676) | [PPTX](https://docs.google.com/presentation/d/1DSEvWsN2fj2PH1zfdBKFvg_ilTT6UIMz/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | Data Collected from Various sources and modelled together
 03 | Bangladesh rental property finder report | [Power BI Service](https://www.mavenanalytics.io/project/3677) | [PPTX](https://docs.google.com/presentation/d/1wI__j3sh3MHLwUDa3pdXWB1iraZ-hqqy/edit?usp=share_link&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://www.kaggle.com/datasets/ijajdatanerd/property-listing-data-in-bangladesh)
