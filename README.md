@@ -1,4 +1,4 @@
-<h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hello👋 This is LogeshKumar S <br></br>
+<h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hi👋 This is LogeshKumar S </h1>
 <h2 align="center">BI developer:computer:</h2>
 
 I am a motivated and ambitious individual with a strong passion for the data-driven industry. My objective is to secure a challenging and responsible position in an esteemed organization where I can utilize my skills and abilities, contributing to constant professional growth and building a long-term career. 
