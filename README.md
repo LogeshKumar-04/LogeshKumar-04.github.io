@@ -1,18 +1,20 @@
 <h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hello👋 This is LogeshKumar S <br></br>
-<h2 align="center">Power BI developer:computer: & Data Analyst:bar_chart:</h2>
+<h2 align="center">BI developer:computer:</h2>
 
-Looking forward to serving an esteemed organization in a challenging and responsible position to utilize my skills and abilities that offers me a professional growth constantly which will help me to build a long-term career in Data Industry. 
+I am a motivated and ambitious individual with a strong passion for the data-driven industry. My objective is to secure a challenging and responsible position in an esteemed organization where I can utilize my skills and abilities, contributing to constant professional growth and building a long-term career. 
 
 ---
 
 <h3>Skills:💻:</h3>
- <li>MS-Office</li>
- <li>Pivot, Power Query, Power Pivot, Macros</li>
  <li>Power BI</li>
  <li>DAX</li>
+ <li>Inforiver</li>
  <li>My SQL</li>
+ <li>MS-Office</li>
+ <li>Pivot, Power Query, Power Pivot, Macros</li>
  <li>Tableau</li>
  <li>NumPy, Pandas, Matplotlib, Seaborn</li>
+ <li>Canva</li>
 </ul>
 
 ---
