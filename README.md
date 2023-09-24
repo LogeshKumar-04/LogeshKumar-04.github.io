@@ -32,8 +32,8 @@ I am a motivated and ambitious individual with a strong passion for the data-dri
 <h3>Profiles:boy:</h3>
 <ul>
 <li><a href="https://www.kaggle.com/logeshkumar04" target="_blank"> <img height="30"  src="https://www.kaggle.com/static/images/site-logo.svg"/> </a>
-<li><a href="https://www.hackerrank.com/elogu2001" target="_blank"> <img height="15"  src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"/>
-<li><a href="https://prod-apnortheast-a.online.tableau.com/#/site/practiceprojects/recents" target="_blank"> <img height="30"  src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png"/>
+<li><a href="https://www.hackerrank.com/elogu2001" target="_blank"> <img height="45"  src="https://uploads-ssl.webflow.com/63272099c5878568dae8a202/63e18107461cdb2e65759eab_Hacker%20Rank_CaseStudy_Tile.png"/>
+<li><a href="https://www.mavenanalytics.io/profile/Logeshkumar-S/109493940" target="_blank"> <img height="30"  src="https://miro.medium.com/v2/resize:fit:1400/1*Px3bVEEpNiWeS1WV8wkwiA.png"/>
  </a>
 </ul>
     
