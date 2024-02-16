@@ -26,7 +26,7 @@ I am a Business Intelligence Developer with a strong passion for the data-driven
     <li><a href="mailto:elogu2001@gmail.com" target="_blank"> <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/> </a></li>
    <li><a href="mailto:elogu2001@outlook.com" target="_blank"> <img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP__VuTkawlW4TRekuXvrVa2NQDiSQoSL5U8gO-Yvt8zt26S6Gg22K0n8Y5UhLmTFyIA&usqp=CAU"/> </a></li>
   <li><a href="https://www.linkedin.com/in/logeshkumar-sivakumar-a172571b2" target="_blank"> <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a></li>
-      <li><a href="https://instagram.com/defensive_wall__4_?utm_medium=copy_link" target="_blank"> <img height="30"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+      <li><a href="https://www.instagram.com/leo_logesh_04/" target="_blank"> <img height="30"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 </ul>
 
 ---
