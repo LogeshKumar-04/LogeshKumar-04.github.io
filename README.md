@@ -1,14 +1,16 @@
 <h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hi👋 This is LogeshKumar S </h1>
-<h2 align="center">BI developer:computer:</h2>
+<h2 align="center">BI developer :computer:</h2>
 
-I am a motivated and ambitious individual with a strong passion for the data-driven industry. My objective is to secure a challenging and responsible position in an esteemed organization where I can utilize my skills and abilities, contributing to constant professional growth and building a long-term career. 
+I am a Business Intelligence Developer with a strong passion for the data-driven industry. My experience in the field has helped me develop a deep understanding of data warehousing, data modeling, and data visualization. I am always eager to learn and grow, and I am interested in exploring the field of Data Engineering. I believe that data engineering is a crucial component of the data-driven industry, and I am excited to learn more about building robust data pipelines and creating scalable data architectures. I am a motivated and ambitious individual who is committed to constant professional growth and building a long-term career. 
 
 ---
 
 <h3>Skills:💻:</h3>
  <li>Power BI</li>
- <li>DAX</li>
+ <li>Fabric</li>
  <li>Inforiver</li>
+<li>Power Automate</li>
+ <li>DAX</li>
  <li>My SQL</li>
  <li>MS-Office</li>
  <li>Pivot, Power Query, Power Pivot, Macros</li>
