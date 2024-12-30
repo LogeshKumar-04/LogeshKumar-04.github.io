@@ -1,5 +1,5 @@
 <h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hi👋 This is LogeshKumar S </h1>
-<h2 align="center">BI developer :computer:</h2>
+<h2 align="center">BI Developer :computer:</h2>
 
 I am a Business Intelligence Developer with a strong passion for the data-driven industry. My experience in the field has helped me develop a deep understanding of data warehousing, data modeling, and data visualization. I am always eager to learn and grow, and I am interested in exploring the field of Data Engineering. I believe that data engineering is a crucial component of the data-driven industry, and I am excited to learn more about building robust data pipelines and creating scalable data architectures. I am a motivated and ambitious individual who is committed to constant professional growth and building a long-term career. 
 
