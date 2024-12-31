@@ -16,7 +16,7 @@ I am a Business Intelligence Developer with a strong passion for the data-driven
  <li>Pivot, Power Query, Power Pivot, Macros</li>
  <li>Tableau</li>
  <li>NumPy, Pandas, Matplotlib, Seaborn</li>
- <li>Canva</li>
+ <li>Notions</li>
 </ul>
 
 ---
